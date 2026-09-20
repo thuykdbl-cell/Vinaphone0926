@@ -144,13 +144,13 @@ export default function App() {
                   Bạn muốn kiểm tra vị trí trạm phát 5G gần nhất tại khu vực của mình?
                 </h3>
                 <p className="text-slate-300 text-xs sm:text-sm mt-1 mb-4">
-                  VNPT đã phủ sóng toàn diện khu vực Bình Mỹ, Ninh Bình với 7 trạm phát sóng băng tần n78.
+                  VNPT đã phủ sóng toàn diện khu vực Bình Mỹ, Ninh Bình với hàng trăm trạm phát sóng băng tần n78.
                 </p>
                 <button
                   onClick={() => setActiveTab('coverage')}
                   className="bg-[#0066cc] hover:bg-[#0052a3] text-white px-5 py-2.5 rounded-xl text-xs sm:text-sm font-bold shadow-md"
                 >
-                  Xem Bản Đồ 7 Trạm 5G Bình Mỹ
+                  Xem Bản Đồ Trạm 5G Bình Mỹ
                 </button>
               </div>
             </div>

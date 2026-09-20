@@ -78,7 +78,7 @@ export const CoverageMap: React.FC<CoverageMapProps> = ({
               </span>
             </div>
             <h2 className="font-heading text-2xl sm:text-3xl md:text-4xl font-extrabold text-white tracking-tight">
-              Mạng Lưới 7 Trạm BTS 5G VNPT Tại Bình Mỹ
+              Mạng Lưới Trạm BTS 5G VNPT Tại Bình Mỹ
             </h2>
             <p className="text-slate-300 text-sm sm:text-base mt-2 max-w-2xl">
               Hạ tầng viễn thông 5G băng tần n78 (3.7GHz) hiện đại bậc nhất, phủ sóng toàn diện khu vực Bình Mỹ, Ninh Bình.
@@ -88,7 +88,7 @@ export const CoverageMap: React.FC<CoverageMapProps> = ({
           <div className="flex items-center gap-2 text-xs text-slate-300 bg-white/5 border border-white/10 p-3 rounded-xl">
             <Radio className="w-5 h-5 text-[#00d2ff] shrink-0" />
             <div>
-              <span className="font-bold text-white block">Tất cả 7 trạm đang hoạt động</span>
+              <span className="font-bold text-white block">Hệ thống trạm đang hoạt động 100%</span>
               <span className="text-[11px] text-[#10b981]">Giám sát thời gian thực (NOC VNPT)</span>
             </div>
           </div>
