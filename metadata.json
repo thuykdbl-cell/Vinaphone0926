@@ -1,0 +1,6 @@
+{
+  "name": "VNPT Bình Mỹ 5G Direct",
+  "description": "Cổng đăng ký gói cước 5G, kiểm tra phủ sóng, đo tốc độ và đặt SIM VinaPhone chính hãng - VNPT Bình Mỹ, 774 Trần Hưng Đạo, Bình Mỹ, Ninh Bình. ĐT: 02263.862.555.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
